@@ -4,6 +4,9 @@
 This Power BI dashboard provides an in-depth analysis of **Electric Vehicle (EV) sales in India** from **2014 to 2024**, offering valuable insights into regional trends, vehicle categories, market performance, and employment impacts.
 
 The dashboard is designed for policymakers, market analysts, and EV enthusiasts looking to explore the rapid growth and adoption of electric vehicles in India.
+<img width="2400" height="1353" alt="image" src="https://github.com/user-attachments/assets/4504c4e2-7d19-4e0b-9057-da61fe12fdc6" />
+
+<img width="1338" height="749" alt="image" src="https://github.com/user-attachments/assets/84e07e72-7814-4e5a-aa04-f16bca5d7465" />
 
 ---
 
